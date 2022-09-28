@@ -1,3 +1,5 @@
+mysql -u root -p
+
 CREATE DATABASE proyecto;
 
 USE proyecto;
