@@ -1,8 +1,10 @@
 # Bases de datos
 Git del Proyecto Base de datos (Diseño Ecommerce)
 
-David Alvarez Grisales
+David Alvarez Grisales 
+
 David Mauricio Londoño Sanchez
+
 Luis Felipe Urquijo Vargas
 
 # Diseño fisico
