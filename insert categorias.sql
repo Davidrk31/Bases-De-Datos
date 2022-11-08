@@ -8,4 +8,3 @@ INSERT INTO categorias(categoria_id,nombre,descripcion) VALUES (007,'Tecnologia'
 INSERT INTO categorias(categoria_id,nombre,descripcion) VALUES (008,'Deportes','Accesorios y aparatos para el deporte',);
 INSERT INTO categorias(categoria_id,nombre,descripcion) VALUES (009,'Belleza','Productos para belleza y el cuidado personal',);
 INSERT INTO categorias(categoria_id,nombre,descripcion) VALUES (010,'Inmuebles','Muebles para tu hogar',);
-
