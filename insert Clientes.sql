@@ -1,0 +1,10 @@
+INSERT INTO clientes (id,nombre,direccion,pais,telefono,ciudad,Password_,Estadolog) VALUES (1,'Alverth','Av.poblado Calle 44','Colombia',3334556,'Medellin','****',0);
+INSERT INTO clientes (id,nombre,direccion,pais,telefono,ciudad,Password_,Estadolog) VALUES (2,'Lee Sang-Hyeok','Av.coreana Calle 13','Corea del Sur',8904552,'Seul','*****',1);
+INSERT INTO clientes (id,nombre,direccion,pais,telefono,ciudad,Password_,Estadolog) VALUES (3,'Cristiano','Av.madeira Calle 65','Portugal',6988114,'Lisboa','*******',0);
+INSERT INTO clientes (id,nombre,direccion,pais,telefono,ciudad,Password_,Estadolog) VALUES (4,'Lionel','Av.buenos aires Calle 23','Argentina',2884449,'La plata','*****',0);
+INSERT INTO clientes (id,nombre,direccion,pais,telefono,ciudad,Password_,Estadolog) VALUES (5,'David Mauricio','Av.palmas Calle 30','Colombia',3338215,'Medellin','****',1);
+INSERT INTO clientes (id,nombre,direccion,pais,telefono,ciudad,Password_,Estadolog) VALUES (6,'Sara','Av.boulerias Calle 70','Colombia',3384567,'Medellin','********',0);
+INSERT INTO clientes (id,nombre,direccion,pais,telefono,ciudad,Password_,Estadolog) VALUES (7,'Andres Prada','Av.43a Calle 28','Colombia',3347556,'Sabaneta','********',1);
+INSERT INTO clientes (id,nombre,direccion,pais,telefono,ciudad,Password_,Estadolog) VALUES (8,'Helmuth','Av.guayabal Calle 10','Colombia',3337777,'Medellin','****',0);
+INSERT INTO clientes (id,nombre,direccion,pais,telefono,ciudad,Password_,Estadolog) VALUES (9,'Monkey D Luffy','Av.tokyo Calle 12','Japon',1001456,'Villa Foosha','****',1);
+INSERT INTO clientes (id,nombre,direccion,pais,telefono,ciudad,Password_,Estadolog) VALUES (10,'Ezio Auditore','Av.monterigioni Calle 69','Italia',2456132,'Florencia','********',0);
