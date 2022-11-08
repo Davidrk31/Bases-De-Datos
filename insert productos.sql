@@ -1,5 +1,5 @@
 INSERT INTO Productos(producto_id,nombre,sku,precio,stock)  VALUES (0001,'Computador HP',68723,2200000,977);
-INSERT INTO Productos(producto_id,nombre,sku,precio,stock)  VALUES (0002,'Televisor Samsung',43624,'1750000',1240);
+INSERT INTO Productos(producto_id,nombre,sku,precio,stock)  VALUES (0002,'Televisor Samsung',43624,1750000,1240);
 INSERT INTO Productos(producto_id,nombre,sku,precio,stock)  VALUES (0003,'Silla roja',16389,234000,4035);
 INSERT INTO Productos(producto_id,nombre,sku,precio,stock)  VALUES (0004,'Maquillaje L'oreal',62618,180000,350);
 INSERT INTO Productos(producto_id,nombre,sku,precio,stock)  VALUES (0005,'Microondas Kalley',42144,649900,1092);
