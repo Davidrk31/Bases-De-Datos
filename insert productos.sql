@@ -10,7 +10,7 @@ INSERT INTO Productos(producto_id,nombre,sku,precio,stock)  VALUES (0009,'Bicicl
 INSERT INTO Productos(producto_id,nombre,sku,precio,stock)  VALUES (0010,'Sofa Cama',84242,1600000,433);
 INSERT INTO Productos(producto_id,nombre,sku,precio,stock)  VALUES (0011,'Reloj Rolex',42312,1200000,55);
 INSERT INTO Productos(producto_id,nombre,sku,precio,stock)  VALUES (0012,'Cama acolchonada',99872,1150000,5032);
-INSERT INTO Productos(producto_id,nombre,sku,precio,stock)  VALUES (0013,'Pesa 5kg',55542,12234,55000,300);
+INSERT INTO Productos(producto_id,nombre,sku,precio,stock)  VALUES (0013,'Pesa 5kg',55542,55000,300);
 INSERT INTO Productos(producto_id,nombre,sku,precio,stock)  VALUES (0014,'Laptop Gamer Asus',12345,3500000,19);
 INSERT INTO Productos(producto_id,nombre,sku,precio,stock)  VALUES (0015,'Blusa roja',22234,99900,3421);
 INSERT INTO Productos(producto_id,nombre,sku,precio,stock)  VALUES (0016,'Cargador Iphone',33334,105000,123);
